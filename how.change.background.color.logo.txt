@@ -1,0 +1,11 @@
+
+1. Start Photoshop CC
+2. Open Common_background.png
+3. Open logo
+4. Change logo size to по 3 клетки слева и справа (about 140x140px)
+5. Save as logo in png format (or export to PNG)
+6. Select "Quick select Tool"
+7. Selecdt desige figure in logo
+8. Select "Move Tool"
+9. Drag&drop selected figure to Common_background.png
+10. Save as Common_background.png to you_logo_name.png
